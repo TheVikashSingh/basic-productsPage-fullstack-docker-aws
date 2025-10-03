@@ -30,6 +30,8 @@ Update 3: Deploying the Spring Boot App on AWS using AWS S3, RDS, ECR and ECS.
 <img width="1088" height="248" alt="image" src="https://github.com/user-attachments/assets/77082ffd-b3d5-49e3-b1ed-eed9325119a4" />
 <img width="2556" height="1130" alt="image" src="https://github.com/user-attachments/assets/9d34c4dc-956c-4916-b9ad-8d6469942a9b" />
 <img width="2552" height="613" alt="image" src="https://github.com/user-attachments/assets/451888f3-d200-435e-b2dd-33110ec6b49b" />
+![Uploading image.png…]()
+
 
 
 
