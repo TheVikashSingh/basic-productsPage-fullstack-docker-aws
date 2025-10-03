@@ -1,6 +1,10 @@
 # basic-productsPage-fullstack-docker-aws
 A basic products website to demonstrate usage of React, Spring Boot, Postgres, Docker and AWS.
 
+API ENDPOINTS:-
+http://localhost:8080/ (backend)
+http://localhost:5173/ (frontend)
+
 
 
 
